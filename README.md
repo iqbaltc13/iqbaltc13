@@ -77,9 +77,7 @@ _***Currently(and future) Learning:***_
         <p align="left">
          
           
-        </p>
-      </div>
-    </div>
+        
   </td>
     <td class="border_l border_r border_t border_b selected">
     <div class="wrap">
